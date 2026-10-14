@@ -1,5 +1,14 @@
 # Unified SSID Network
 
+## TL;DR version
+
+Instead of having 2 distinct SSIDs, have only 1. When you're far away from the wifi, your device automatically uses 2.4 Ghz.  
+When near, it will also automatically switch to 5 Ghz (with the help of band steering).
+
+> “Why waste time say lot word when few word do trick” - Kevin, The Office
+
+## More words version..
+
 A practical, vendor-neutral guide to **unified SSID networks** — running a single
 wi-fi network name (SSID) across multiple frequency bands and, where applicable,
 multiple access points, so your devices move between them without you managing a
